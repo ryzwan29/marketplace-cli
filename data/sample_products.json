@@ -7,13 +7,6 @@
         "price": 3800000
     },
     {
-        "id": 2,
-        "name": "Sendal Swallow Sebelah",
-        "category": "Fashion Nyeker",
-        "rating": 4.5,
-        "price": 3000
-    },
-    {
         "id": 3,
         "name": "Revolver Handgun",
         "category": "Kehidupan",
@@ -45,7 +38,7 @@
         "id": 7,
         "name": "Rasa Yang Dulu Pernah Ada",
         "category": "Kehidupan",
-        "rating": 5.0,
+        "rating": 5,
         "price": 10000
     },
     {
@@ -68,5 +61,12 @@
         "category": "Kehidupan",
         "rating": 4.6,
         "price": 34000
+    },
+    {
+        "id": 11,
+        "name": "KTP Tetangga",
+        "category": "Kehidupan",
+        "rating": 1.3,
+        "price": 1000
     }
 ]
