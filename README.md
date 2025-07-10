@@ -61,7 +61,6 @@ Sistem ini dapat digunakan sebagai:
 
 ## 👨‍💻 Dibuat oleh
 Rizwan Fairuz Mamduh  
-NIM: 241232020  
 Program Studi: Teknik Informatika
 
 ## 📁 Struktur Folder
