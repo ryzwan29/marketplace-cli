@@ -84,3 +84,51 @@ Program Studi: Teknik Informatika
 ┗ 📂 docs
   ┗ dokumentasi.pdf
 ```
+
+## 🚀 Cara Menjalankan Proyek
+
+Proyek ini dijalankan melalui terminal/command line menggunakan PHP CLI. Berikut langkah-langkah menjalankannya:
+
+### 🐧 Untuk Linux (Ubuntu/Debian)
+
+1. **Install PHP dan Git**
+   ```bash
+   sudo apt update
+   sudo add-apt-repository ppa:ondrej/php
+   sudo apt update
+   sudo apt install git php8.4 php8.4-common -y
+   ```
+2. **Clone repository**
+   ```bash
+   git clone https://github.com/ryzwan29/marketplace-cli
+   cd marketplace-cli
+   ```
+3. Jalankan program
+   ```bash
+   php index.php
+   ```
+
+### 🪟 Untuk Windows
+
+1. **Install Git**
+   Download dan install Git dari [https://git-scm.com/download/win](https://git-scm.com/downloads/win)
+2. **Install PHP**
+   Download dari [https://windows.php.net/download](https://windows.php.net/download)
+   
+   Pilih versi non-thread-safe, extract ke folder (misalnya C:\php)
+   
+   Tambahkan path C:\php ke ```Environment Variables > Path```
+   
+   Buka Command Prompt dan cek:
+   ```bash
+   php -v
+   ```
+4. **Clone repository**
+   ```bash
+   git clone https://github.com/ryzwan29/marketplace-cli
+   cd marketplace-cli
+   ```
+5. **Jalankan program**
+   ```bash
+   php index.php
+   ```
