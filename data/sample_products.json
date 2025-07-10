@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Motor Supra Bapak",
+        "category": "Transportasi",
+        "rating": 4.3,
+        "price": 3800000
+    },
+    {
+        "id": 2,
+        "name": "Sendal Swallow Sebelah",
+        "category": "Fashion Nyeker",
+        "rating": 4.5,
+        "price": 3000
+    },
+    {
+        "id": 3,
+        "name": "Revolver Handgun",
+        "category": "Kehidupan",
+        "rating": 4.5,
+        "price": 159000
+    },
+    {
+        "id": 4,
+        "name": "Handgun Dessert Eagle",
+        "category": "Kehidupan",
+        "rating": 4.4,
+        "price": 239000
+    },
+    {
+        "id": 5,
+        "name": "Samsung J2 Prime",
+        "category": "Elektronik",
+        "rating": 3.9,
+        "price": 67000
+    },
+    {
+        "id": 6,
+        "name": "Rahmat Toyota Motor Ember",
+        "category": "Transportasi",
+        "rating": 4.9,
+        "price": 2000000
+    },
+    {
+        "id": 7,
+        "name": "Rasa Yang Dulu Pernah Ada",
+        "category": "Kehidupan",
+        "rating": 5.0,
+        "price": 10000
+    },
+    {
+        "id": 8,
+        "name": "Peci RGB Gaming",
+        "category": "Aksesoris",
+        "rating": 4.95,
+        "price": 77777
+    },
+    {
+        "id": 9,
+        "name": "Clash Of Clans TH 25",
+        "category": "Elektronik",
+        "rating": 4.95,
+        "price": 23000
+    },
+    {
+        "id": 10,
+        "name": "Kail Pancingan",
+        "category": "Kehidupan",
+        "rating": 4.6,
+        "price": 34000
+    }
+]
