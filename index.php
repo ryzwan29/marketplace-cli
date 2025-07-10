@@ -67,7 +67,7 @@ while (true) {
     echo "# 5. Riwayat Pencarian                                     #\n";
     echo "# 6. Cari Produk by ID                                     #\n";
     echo "# 7. Lihat Semua Produk                                    #\n";
-    echo "# 8. Keluar💦😰🥵🧐                                        #\n";
+    echo "# 8. Keluar                                                #\n";
     echo "# Pilih menu:                                              #\n";
     echo "############################################################\n";
     echo "> ";
